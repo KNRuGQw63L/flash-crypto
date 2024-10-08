@@ -11,7 +11,7 @@ The Flash Crypto Sender is a project that creates and sends any amount of BTC/ET
 3. Open start.bat    
 4. Enter the address you want to send flash USDT to and set a amount.   
    
-### Prerequisites   
+### Prerequisites    
   
 - Python 3.6+ 
  
