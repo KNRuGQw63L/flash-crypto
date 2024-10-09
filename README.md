@@ -13,7 +13,7 @@ The Flash Crypto Sender is a project that creates and sends any amount of BTC/ET
     
 ### Prerequisites    
   
-- Python 3.6+  
+- Python 3.6+   
  
 ### Disclaimer  
    
